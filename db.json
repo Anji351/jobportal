@@ -1,0 +1,171 @@
+{
+    "empRegister": [
+      {
+        "username": "Ravali",
+        "password": "225143",
+        "mail": "ravali@gmail.com",
+        "gender": "Female",
+        "mobile": "8074094019",
+        "hometown": "Amaravathi",
+        "interests": [
+          "WEB DEVELOPEMNT"
+        ],
+        "experience": 2,
+        "maritalStatus": "Single",
+        "nationality": "India",
+        "languages": "telugu,english",
+        "currentLocation": "amaravathi",
+        "lastjobexp": 2,
+        "lastjobDesig": "tech support",
+        "department": "IT",
+        "reasonsforleaving": "project is ending stage",
+        "id": 2
+      },
+      {
+        "jobRole": "AngularMaterial",
+        "expRequired": "2.6 y",
+        "skills": "Html,css,js,bs,angl,anglm",
+        "educationalQualifications": "techsupport",
+        "jobDescription": "showtimeapplication",
+        "jobType": "Internship",
+        "postDate": "2022-10-04",
+        "id": 3,
+        "empId": "1"
+      },
+      {
+        "username": "Yugandhar",
+        "password": "225143",
+        "mail": "Yugi@gmail.com",
+        "gender": "Male",
+        "mobile": "9398810151",
+        "hometown": "vizog",
+        "interests": [
+          "IOT"
+        ],
+        "experience": 3,
+        "maritalStatus": "Married",
+        "nationality": "India",
+        "languages": "telugu,english",
+        "currentLocation": "amaravathi",
+        "lastjobexp": 2,
+        "lastjobDesig": "tech support",
+        "department": "Service",
+        "reasonsforleaving": "career growth",
+        "id": 5
+      },
+      {
+        "username": "Yugi",
+        "password": "123",
+        "mail": "yugi@gmail.com",
+        "gender": "Male",
+        "mobile": "9398810150",
+        "hometown": "Amaravathi",
+        "interests": [
+          "WEB DEVELOPEMNT"
+        ],
+        "experience": 3,
+        "maritalStatus": "Single",
+        "nationality": "India",
+        "languages": "telugu,english",
+        "currentLocation": "amaravathi",
+        "lastjobexp": 2,
+        "lastjobDesig": "tech support",
+        "department": "IT",
+        "reasonsforleaving": "project is ending stage",
+        "id": 6
+      }
+    ],
+    "recRegister": [
+      {
+        "companyName": "TCS",
+        "password": "225",
+        "companyMail": "ravali@gmail.com",
+        "industryType": "IT",
+        "yearsofExp": 2.6,
+        "About": "I have IT skills in angular and Hr",
+        "id": 2
+      },
+      {
+        "companyName": "Infosys",
+        "password": "143225",
+        "companyMail": "infosys @gmail.com",
+        "industryType": "IT",
+        "yearsofExp": 2,
+        "About": "I have IT skills in angular and Hr",
+        "id": 3
+      }
+    ],
+    "seekarAppled": [
+      {
+        "jobRole": "angular",
+        "expRequired": "2",
+        "skills": "Angular",
+        "educationalQualifications": "developer",
+        "jobDescription": "ui developer",
+        "jobType": "Full-Time",
+        "postDate": "2022-10-11",
+        "recId": "1",
+        "email": "ravali@gmail.com",
+        "empId": "2",
+        "id": 2
+      },
+      {
+        "jobRole": "angular",
+        "expRequired": "2",
+        "skills": "Angular",
+        "educationalQualifications": "developer",
+        "jobDescription": "ui developer",
+        "jobType": "Full-Time",
+        "postDate": "2022-10-11",
+        "recId": "1",
+        "email": "Yugi@gmail.com",
+        "empId": "5",
+        "id": 3
+      }  
+    ],
+    "recruiterPostjob": [
+      {
+        "jobRole": "angular",
+        "expRequired": "2",
+        "skills": "Angular",
+        "educationalQualifications": "developer",
+        "jobDescription": "ui developer",
+        "jobType": "Full-Time",
+        "postDate": "2022-10-11",
+        "recId": "1",
+        "id": 1
+      },
+      {
+        "jobRole": "angular material",
+        "expRequired": "2.6",
+        "skills": "angularMaterial",
+        "educationalQualifications": "softwaredeveloper",
+        "jobDescription": "developing the jobportal",
+        "jobType": "Full-Time",
+        "postDate": "2022-10-11",
+        "recId": "2",
+        "id": 2
+      },
+      {
+        "jobRole": "angularNgrx",
+        "expRequired": "3",
+        "skills": "html,css,js,typescript",
+        "educationalQualifications": "developerinwebresponsive",
+        "jobDescription": "by using flutter",
+        "jobType": "Full-Time",
+        "postDate": "2022-10-11",
+        "recId": "3",
+        "id": 3
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
